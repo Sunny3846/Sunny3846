@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sunny3846
+- 👋 Hi, I’m Rajesh Sajjanam(Sunny)
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning b.tech (CSE)
 - 💞️ I’m looking to collaborate on ...
